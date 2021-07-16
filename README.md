@@ -10,7 +10,6 @@ For example, there is a program that calculates the factorial of a number (facto
 
 # Architecture of projects
 ![Roadmap.png](https://github.com/AlbatraozRUS/Binary-Translator/blob/master/Architecture.png)
-See alse [own high-level programming language "Belarusian language"](https://github.com/shugaley/1_semestr/tree/master/language) and [compiler to ELF64]
-(https://github.com/shugaley/2_semestr/tree/master/compiler)
+See alse [own high-level programming language "Belarusian language"](https://github.com/shugaley/1_semestr/tree/master/language) and [compiler to ELF64(https://github.com/shugaley/2_semestr/tree/master/compiler)
 
 ### By shugaley and [AlbatraozRUS](https://github.com/AlbatraozRUS)
